@@ -10,7 +10,9 @@ It is basically loved by all due to its appealing User Interface, fastest finger
 
 ### User Interface of Game
 <div>
-<img src="https://user-images.githubusercontent.com/62353456/126148778-e44a2e6a-2dc1-4cfc-8201-24833564fbea.jpg" />
+
+<img width="960" alt="snake game" src="https://user-images.githubusercontent.com/53075286/172671916-8906e2f2-a010-476d-87b6-994fad8f2b31.PNG">
+
 </div>
 
 
